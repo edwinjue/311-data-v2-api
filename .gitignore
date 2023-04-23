@@ -1,0 +1,8 @@
+.env
+
+# dependencies
+/node_modules/
+node_modules_non_es5
+
+# log files
+/logs/
